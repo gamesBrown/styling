@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    background-color: black;
+    
+    font-style: oblique;
+    margin-bottom: 10px;
+    
+    
+}
+
+#cloud{
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#my{
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#projects{
+    background-color:rgb(88, 46, 109);
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-family:cursive;
+}
+
+#third{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:cyan;
+    color: darkslateblue;
+    text-decoration: underline;
+}
